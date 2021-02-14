@@ -37662,7 +37662,7 @@ var render = function() {
         "div",
         { staticClass: "header" },
         [
-          _c("h1", [_vm._v("DSSHOP")]),
+          _c("h1", [_vm._v("papaqi")]),
           _vm._v(" "),
           _c(
             "el-menu",
@@ -37701,9 +37701,9 @@ var render = function() {
                     { attrs: { gutter: 12 } },
                     [
                       _c("el-col", { staticClass: "left", attrs: { lg: 6 } }, [
-                        _c("h1", [_vm._v("DSSHOP")]),
+                        _c("h1", [_vm._v("papaqi")]),
                         _vm._v(" "),
-                        _c("h4", [_vm._v("易开发、易扩展、完全免费的商城系统")])
+                        _c("h4", [_vm._v("商城系统")])
                       ]),
                       _vm._v(" "),
                       _c("el-col", { staticClass: "right", attrs: { lg: 6 } }, [

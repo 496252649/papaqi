@@ -63,7 +63,7 @@ class Entrance
                 "sub_button" => [
                     [
                         "type" => "miniprogram",
-                        "name" => "DSSHOP商城",
+                        "name" => "papaqi商城",
                         "url"  => "https://dsshop.dswjcms.com/h5/#/",
                         "appid"=>"wxc31e70f47087660b",
                         "pagepath"=>"pages/index/index"
@@ -82,7 +82,7 @@ class Entrance
                 "sub_button" => [
                     [
                         "type" => "view",
-                        "name" => "DSSHOP商城",
+                        "name" => "papaqi商城",
                         "url"  => "https://dsshop.dswjcms.com/h5/#/"
                     ]
                 ],

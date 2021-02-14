@@ -1,5 +1,5 @@
 {
-    "name" : "DSSHOP电商商城",
+    "name" : "papaqi电商商城",
     "appid" : "",
     "description" : "",
     "versionName" : "1.0.0",
@@ -70,8 +70,8 @@
     },
     "h5" : {
         "devServer" : {},
-        "title" : "DSSHOP电商商城",
-        "domain" : "",
+        "title" : "papaqi电商商城",
+        "domain" : "papaqi.com",
         "router" : {
             "base" : "/h5/"
         },
